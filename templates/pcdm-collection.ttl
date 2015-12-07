@@ -1,0 +1,5 @@
+@prefix pcdm: <http://pcdm.org/models#>
+@prefix nfo: <http://www.semanticdesktop.org/ontologies/2007/03/22/nfo/v1.2/>
+
+<> a pcdm:Collection ;
+    nfo:uuid "{{id}}" .
